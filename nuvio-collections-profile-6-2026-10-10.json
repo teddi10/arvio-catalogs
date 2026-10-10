@@ -1,0 +1,3529 @@
+[
+  {
+    "id": "d978a585-bb1a-43fe-9c7d-05d45d74111b-community",
+    "title": "‎Discover",
+    "folders": [
+      {
+        "id": "1b72937f-83dd-480e-b728-d4437cb598d2",
+        "title": "Trending Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "trakt-trending"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.3882"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/series/trakt-trending.png?name=Trending%20Shows",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.betterposters",
+            "catalogId": "trakt-trending"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.3882"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/NFzHSgXb/Trending-TV.png"
+      },
+      {
+        "id": "f0a1c172-63e5-4ffd-b16e-eb1336a4485c",
+        "title": "Trending Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "trakt-trending"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.88306"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/movie/trakt-trending.png?name=Trending%20Movies",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.betterposters",
+            "catalogId": "trakt-trending"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.88306"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/3NcvVKGn/Trending-Movies.png"
+      },
+      {
+        "id": "36b4837e-3b3d-46bf-ac20-a9c967dd5dcb",
+        "title": "Popular Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "trakt-popular"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_series"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/series/trakt-popular.png?name=Popular%20Shows",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.betterposters",
+            "catalogId": "trakt-popular"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_series"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/HnxM6Jrf/Popular-TV.png"
+      },
+      {
+        "id": "24109660-3501-4560-862a-5b8ce827e873",
+        "title": "Popular Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "trakt-popular"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_movie"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/movie/trakt-popular.png?name=Popular%20Movies",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.betterposters",
+            "catalogId": "trakt-popular"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_movie"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/pr6F42jC/Popular-Movies.png"
+      },
+      {
+        "id": "3d17a2bb-826f-42b3-8bf9-ec6defd4c953",
+        "title": "Top 25 Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "tmdb-today-shows"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/q1ZKTixJzMlPL1ayilYqyU1J0i3JT0msVNJB4ugWZ-SXFyvF6ijlppYkKllVIyu0qlbKS8xNVbJSCskvUDAyVfDNL8tMLQYZoGSllKtUi8UkDD3BqUUIPcVKtbW1AA/cover/series/tmdb-today-shows.png?name=Top%2025%20Series",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.betterposters",
+            "catalogId": "tmdb-today-shows"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/TYP3NH7p/Top25-Shows.png"
+      },
+      {
+        "id": "80b889d6-8023-438f-b0cb-0c5c02044547",
+        "title": "Top 25 Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "tmdb-today"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/q1ZKTixJzMlPL1ayilYqyU1J0i3JT0msVNJB4ugWZ-SXFyvF6ijlppYkKllVIyu0qlbKS8xNVbJSCskvUDAyVfDNL8tMLQYZoGSllKtUi8UkDD3BqUUIPcVKtbW1AA/cover/movie/tmdb-today.png?name=Top%2025%20Movies",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.betterposters",
+            "catalogId": "tmdb-today"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/Prq5VF3N/Top25-Movies.png"
+      },
+      {
+        "id": "ddef7a53-2b1b-4990-81d8-a47984a21ae7",
+        "title": "Top Rated",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_rated_series"
+          },
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "tmdb-top"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2143363"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.top_rated_movie"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2142753"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1282987"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/movie/tmdb-top.png?name=Top%20Rated",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_rated_series"
+          },
+          {
+            "type": "movie",
+            "addonId": "community.betterposters",
+            "catalogId": "tmdb-top"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2143363"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.top_rated_movie"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2142753"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1282987"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/MTGXSCzj/Top-Rated.png"
+      },
+      {
+        "id": "folder-a76d07b6",
+        "title": "Coming Soon Shows",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "tmdb-coming-shows"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.anticipated.shows"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/bYwxCoAwEAS_IlubD1xrbZVSLKIGDXg58IIWIX8XbVSw3GFnMkaX3CqzgjokngYzCoc4o34vo4scir4G--RA-XOljOjYg9DcoLIisWplD16vDgiM8hf8N63fHlNRSjkB/cover/series/tmdb-coming-shows.png?name=Coming%20Soon%20Shows",
+        "catalogSources": [
+          {
+            "type": "series",
+            "addonId": "community.betterposters",
+            "catalogId": "tmdb-coming-shows"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.anticipated.shows"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/yxbZtVRG/Upcoming-Shows.png"
+      },
+      {
+        "id": "b3df045c-eca0-4492-a838-2409daac1a46",
+        "title": "Coming Soon Movies",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "",
+            "addonId": "community.betterposters",
+            "provider": "addon",
+            "catalogId": "tmdb-coming"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.anticipated.movies"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/dVHLbsIwEPyVaM8gOQ8njq-VekOqSqUeqh7W9hqikjiKDQgh_r2CBkJSOM5oZmdn9wgaA27cyoP8gtDhT5iHjhpTNSuYPSNa12432D3CtVHz4AweRmDu127vr5R2dT9tQGNFcO1t-B6DXm8qH27MGUiLO7ftqkAevmdQU0CQx-nC8ggN1gQSPnoqWlJX0SUIJHg4TTsMlrc_5pFjaHmX4Noo4dHC7QZ1PVb3Jf95niT0dxrkLxciWjrXPMsZXfOx82mfdrLZOwYyo4TJQwb54hB93v9p7Jg-bPC9DuTNdbWdZag1eQ8SSsoMlgqxSFOyBmNmE82sZtySFiLNKCNknBvBsri0nHJjmNKp5iRszguYQUe2I78GCYTEdZHl2qIlEipTQpdFmiXCljFLFGVpyQQZludM8TxOYqsKZQthTJGLsoDT6Rc/cover/movie/tmdb-coming.png?name=Coming%20Soon%20Movies",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "addonId": "community.betterposters",
+            "catalogId": "tmdb-coming"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.anticipated.movies"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/j2F7msf3/Upcoming-Movies.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584071,
+      "installMode": "replace",
+      "installedAt": 1791544584071,
+      "packCollectionId": "d978a585-bb1a-43fe-9c7d-05d45d74111b-community",
+      "originalCollectionId": "d978a585-bb1a-43fe-9c7d-05d45d74111b-community"
+    },
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "966190a9-3785-4ef0-9f1b-883478bf618c-community",
+    "title": "‎Franchises",
+    "folders": [
+      {
+        "id": "72394705-9eaf-4d7d-8533-6b004f5287fe",
+        "title": "Star Wars",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22202556"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22757470"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/L6r64vPj/Star-Wars-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/vHK1D7bP/Star-Wars.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22202556"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22757470"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/sDtDfKWJ/Star-Wars-BG.jpg"
+      },
+      {
+        "id": "80a9fb99-3ec1-44ec-bc65-3a7bae8fc392",
+        "title": "Middle Earth",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1642688"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/XYF97WcJ/Lo-TRLogo.png",
+        "coverImageUrl": "https://i.postimg.cc/qvn2MrXq/Lo-TR-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1642688"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/BQRx0bFM/Lo-TR-BG.jpg"
+      },
+      {
+        "id": "20f7285a-e5b7-4de3-9fda-046d60850391",
+        "title": "The Wizarding World",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21869828"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/pXgkWq8W/Wizarding-World-of-Harry-Potter-logo.png",
+        "coverImageUrl": "https://i.postimg.cc/xj44xqMB/Wizarding-World-of-Harry-Potter-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21869828"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/sg7mv79C/Harry-Potter-BG.jpg"
+      },
+      {
+        "id": "3b979d6d-2a1b-4cea-b7c7-a83d39ceb2ea",
+        "title": "Pixar",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.801240"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2749609"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/J0Y4Lsdk/Pixar-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/5yrL2sh2/5440db5f-be91-4941-b1ba-4b4ea07b0f25.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.801240"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2749609"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/hj6yHJJv/Pixar-BG.jpg"
+      },
+      {
+        "id": "5b8452e4-50c1-4097-8848-08057442438e",
+        "title": "Dreamworks",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.801242"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/J4QCZCzG/Dream-Works-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/JnVNH8M5/882cf7a8-9aa6-4673-81c1-d3ed7a859e95.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.801242"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/qqVzFhSX/Dream-Works-BG.jpg"
+      },
+      {
+        "id": "52d42c35-ab6c-4f54-9d94-52345fb23391",
+        "title": "Pirates Of The Caribbean",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.162329"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/2SFRdRjw/Piratesof-The-Caribbean-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/4xbkvk41/Piratesof-The-Caribbean-Tile.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162329"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/y8X4h46y/Piratesof-The-Caribbean-BG.jpg"
+      },
+      {
+        "id": "403a869c-8362-4101-ba1b-aa22f60202b7",
+        "title": "Back to the Future",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.162330"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/nzNPb0cb/Backto-The-Future-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/63FmJY5K/Backto-The-Future-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162330"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/C19QTmMW/Backto-The-Future-BG.jpg"
+      },
+      {
+        "id": "ecb19f57-2b83-4bfc-8846-45919f9c4bbb",
+        "title": "Indiana Jones",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11723506"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/vmWxMmzF/Indiana-Jones-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/k5zCjN89/Indiana-Jones-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11723506"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/jjmT86NV/Indiana-Jones-BG.jpg"
+      },
+      {
+        "id": "61ed97f0-6598-4230-9261-fc643336779d",
+        "title": "The Matrix",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11723357"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Kjwfgzgg/The-Matrix-Logo.webp",
+        "coverImageUrl": "https://i.postimg.cc/k43Gpd3c/The-Matrix-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11723357"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/N0rLDjVL/The-Matrix-BG.jpg"
+      },
+      {
+        "id": "9727214b-b4b2-4967-bb56-522bd9312b3d",
+        "title": "The Hunger Games",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21226800"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/tTPPRBCc/The-Hunger-Games-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/T1DT4WLq/0d7e0b16-0ad8-454e-8de1-31e42781a305.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21226800"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/JhSZWfmN/The-Hunger-Games-BG.jpg"
+      },
+      {
+        "id": "folder-a225b44b",
+        "title": "The Planet of the Apes",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11723368"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/9My83FdH/Planetof-The-Apes-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/9FvGHPkB/a453ea55-5840-4dea-a6b8-bc2ba0a1e481.webp",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11723368"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/1tKtYwYj/Planetof-The-Apes-BG.jpg"
+      },
+      {
+        "id": "55cd98d9-ab77-4cf2-a660-6582cf6f7630",
+        "title": "Jurassic World",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11214030"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/1zP9F4vn/vle-Ub-BFl-EGdxaazvz-BMo-Z5d-HDo-Y.webp",
+        "coverImageUrl": "https://i.postimg.cc/xCpJgLZJ/Jurassic-World-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11214030"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/W31qM55p/Jurassic-World-BG.jpg"
+      },
+      {
+        "id": "2148c23d-81a4-4ca1-805f-acfb682655dd",
+        "title": "Men In Black",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21273394"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/rFFFndT1/Men-In-Black-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/X7HNTVNC/Men-In-Black-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21273394"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/kXXX1VCK/Men-In-Black-BG.jpg"
+      },
+      {
+        "id": "folder-142eed43",
+        "title": "Ghostbusters",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.162311"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/7htHck4W/e3ed004b-4969-4109-9c9d-aef29189c433-(1)-(1).png",
+        "coverImageUrl": "https://i.postimg.cc/j5vJGHJb/Ghostbusters-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.162311"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/x8CbYXK9/Ghostbusters-BG.png"
+      },
+      {
+        "id": "folder-a2d3bb63",
+        "title": "Battlestar Galactica",
+        "sources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.173508"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/pdjnnSkx/Battlestar-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/JzLh2h56/Battle-Star-Tile.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.173508"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/T27BpNsM/Battlestar-BG.png"
+      },
+      {
+        "id": "33222ebc-e848-48bf-8211-b4e0f1ed5380",
+        "title": "DC Universe",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.9429560"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/3WQ8YQ4b/960px-DC-Comics-logo-svg-png-utm-source-commons-wikimedia.png",
+        "coverImageUrl": "https://i.postimg.cc/9fxVdSC1/DC-Universe.jpg",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.9429560"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/4N45MSg7/ef215e66-54da-4b03-a946-34727ba52766.jpg"
+      },
+      {
+        "id": "cd74f767-b492-4a4c-a3a4-7296925e15a3",
+        "title": "Marvel",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22881797"
+          },
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.828103"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/XNHCLgb4/Marvel-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/TYKW4WdV/Marvel-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22881797"
+          },
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.828103"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/v8qVhvsn/Marvel-BG.png"
+      },
+      {
+        "id": "folder-f66bc973",
+        "title": "Rocky",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11723321"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Tw7L8X3V/Rocky-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/V6GryckF/Rocky-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11723321"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/cH9gqNLM/Rocky-BG.jpg"
+      },
+      {
+        "id": "311f8d8f-ae99-4cc3-bcde-9afdbf34b1cd",
+        "title": "James Bond",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11754060"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11754031"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11754010"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11753990"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11753899"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/RFGnj7nx/007-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/PJRvqd4D/James-Bond-Tile.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11754060"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11754031"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11754010"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11753990"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11753899"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/SRszqnWz/James-Bond-BG.png"
+      },
+      {
+        "id": "518ba136-5847-4f15-9c58-a1d01b7e1d8b",
+        "title": "Monty Python",
+        "sources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22236190"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "titleLogoUrl": "https://i.postimg.cc/Kv0WqWNq/Python-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/4NRMpgW1/Monty-Python-Button.png",
+        "catalogSources": [
+          {
+            "type": "all",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22236190"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/fTQFYN8x/Monty-Python-BG.png"
+      },
+      {
+        "id": "folder-516b0b3d",
+        "title": "It's Aliens",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.33753562"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/d33f6Ng3/Aliens.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33753562"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584073,
+      "installMode": "replace",
+      "installedAt": 1791544584073,
+      "packCollectionId": "966190a9-3785-4ef0-9f1b-883478bf618c-community",
+      "originalCollectionId": "966190a9-3785-4ef0-9f1b-883478bf618c-community"
+    },
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "01c9338a-fcab-444c-bf65-0695a796660f-community",
+    "title": "‎Streaming",
+    "folders": [
+      {
+        "id": "970d5b2f-ffb4-430f-bf07-b2385bc5c720",
+        "title": "Netflix",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86620"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86628"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.nfx_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/mgm2h99c/bb74046420c4c992b8cabc6e667abe40.gif",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1yViFBWoiyPi6cuVdjUoABaEnZUbnnCxc",
+        "titleLogoUrl": "https://i.postimg.cc/903dVycz/Netflix-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/FHrH9pYN/469fb054-cbec-46ca-bc91-6ed73a6d647b.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86620"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86628"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.nfx_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/bJbYpp4B/Netflix.png"
+      },
+      {
+        "id": "84707fe6-a7a1-4fa6-b45f-c33fbffb5af7",
+        "title": "Prime Video",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86624"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86623"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.amp_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://media1.tenor.com/m/T7L_NCdPIvAAAAAC/prime-video.gif",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1tilj8ekPSeDQCco00WMYPIEEkPN-lrb_",
+        "titleLogoUrl": "https://i.postimg.cc/5ycB18f6/prime-video-landscape-logo.png",
+        "coverImageUrl": "https://i.postimg.cc/jSMdCffB/d0476b73-c21d-4c1d-946f-7ce3fef17ccd.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86624"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86623"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.amp_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/5NfPBp96/Amazon-Prime.png"
+      },
+      {
+        "id": "2558ca1d-d375-4ead-801d-1c4137b65dc0",
+        "title": "Paramount+",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.89374"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.89366"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.pmp_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/zBgJdPcF/Paramount.gif",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1O4iduIsp-tJhIurJiegbPESnHEKYElpw",
+        "titleLogoUrl": "https://i.postimg.cc/yYtfx3nP/Paramount-logo-svg.png",
+        "coverImageUrl": "https://i.postimg.cc/TPSdJXC1/12db31b7-ca2e-4980-9c92-c83e58a22949.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89374"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.89366"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.pmp_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/xT9svgjK/Paramount.png"
+      },
+      {
+        "id": "4c917ef0-b03f-485b-9565-71dc70293b47",
+        "title": "Disney+",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86946"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86945"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/Y0Nt7Lk0/1775910668473-8e07b96b-4739-43d4-9475-f2aaeac8e259.gif",
+        "titleLogoUrl": "https://i.postimg.cc/yd3mwLC3/Disney-Plus-logo-svg.png",
+        "coverImageUrl": "https://i.postimg.cc/D037RPV2/e2155ff8-4939-40d1-8dc2-7d28df3ecaa0.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_series"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86946"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.dnp_movie"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86945"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/zXqdCpDL/Disney.png"
+      },
+      {
+        "id": "c3f60fe9-b4d9-43ac-bd66-28f3465eb367",
+        "title": "Apple TV",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86625"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.86626"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.atp_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://64.media.tumblr.com/d717319220a7d26bdaa88e72f6f76889/d9a7a808f588d8f4-63/s500x750/959b0ca57f53153b2ca9adaf414859e45e3734e6.gifv",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1SBpzMhx5jqVoQpqhK42CsNFiW8pCV3TD",
+        "titleLogoUrl": "https://i.postimg.cc/B6PTdmfK/apple-tv-logo.png",
+        "coverImageUrl": "https://i.postimg.cc/yWq3QZjQ/d2b77dfd-c14a-4258-ab0f-b610519c96ef.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86625"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.86626"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.atp_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/yY7fmn6x/Apple-TV.png"
+      },
+      {
+        "id": "83301023-05cd-4cfe-a1d7-9c8594f18e57",
+        "title": "HBO MAX",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.top_hbo_shows.mpe9izy7"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.top_hbo_movies.mpe9kdzj"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.hbm_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/Hs0t4sLJ/4cb9b614191d17d02c946b4ca59548cd333c06fd.gif",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1TeeMKLynx5v4WE2cC03dw3fFIltlzKJ0",
+        "titleLogoUrl": "https://i.postimg.cc/JnmrXqYH/HBO-Max-logo-(May-2025).png",
+        "coverImageUrl": "https://i.postimg.cc/1RbWh7Yp/af3c0122-cbd1-49ae-94f1-6da0f9f665a8.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.top_hbo_shows.mpe9izy7"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.top_hbo_movies.mpe9kdzj"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.hbm_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/ZKJf8jYW/HBOMax.png"
+      },
+      {
+        "id": "d41af3ad-1c18-466d-8b7b-f4652f7be404",
+        "title": "Starz",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.top_starz_shows.mpe9ln7v"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.sta_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.top_starz_movies.mpe9mvs2"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "streaming.sta_movie"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "focusGifUrl": "https://i.postimg.cc/sxJP9wJm/1000390458-(1).gif",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1siM6tqtCtHzE306lVtH0uuSCmjdN5Mtd",
+        "titleLogoUrl": "https://i.postimg.cc/m20PmKdG/Starz-logo.png",
+        "coverImageUrl": "https://i.postimg.cc/W3Ff8LDH/c7688767-401f-45ad-998a-076ded525df7.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.top_starz_shows.mpe9ln7v"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sta_series"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.top_starz_movies.mpe9mvs2"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "streaming.sta_movie"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/xTrXhFN8/Starz.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584073,
+      "installMode": "replace",
+      "installedAt": 1791544584073,
+      "packCollectionId": "01c9338a-fcab-444c-bf65-0695a796660f-community",
+      "originalCollectionId": "01c9338a-fcab-444c-bf65-0695a796660f-community"
+    },
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-ff23708b-community",
+    "title": "‎UK TV",
+    "folders": [
+      {
+        "id": "folder-8ea9ca41",
+        "title": "iPlayer",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.bbc_shows.mo3f2pnm"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1URan1tMAm_y1SnhIXoRWGVEN3ZyX3SIl",
+        "titleLogoUrl": "https://i.postimg.cc/6QLvvTx7/BBC-i-Player-Logo.png",
+        "coverImageUrl": "https://i.postimg.cc/W3TbWH10/3c471a49-13c3-40e2-8583-b1e9549b1768.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.bbc_shows.mo3f2pnm"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/sghx2cZ4/BBC.png"
+      },
+      {
+        "id": "folder-85f13d7f",
+        "title": "itvX",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.itv_shows.mo3f4hdw"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=11644rcEdmJINZ7NR8-IQaHyk0LCinDWR",
+        "titleLogoUrl": "https://i.postimg.cc/d0CHC242/ITVX-logo-svg.png",
+        "coverImageUrl": "https://i.postimg.cc/85NPK0zK/itv-xwefbrjsf.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.itv_shows.mo3f4hdw"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/vZVTmz67/ITV.png"
+      },
+      {
+        "id": "folder-4975dd8e",
+        "title": "Channel 4",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.channel_4_shows.mo3f7rpz"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=11dQSrys5e_QoukwkOaqx-jfPFhuv7CJ2",
+        "titleLogoUrl": "https://i.postimg.cc/fbd2dcBf/Channel-4.png",
+        "coverImageUrl": "https://i.postimg.cc/3R1rPFkS/63a2922f-2d1a-42ce-845e-de7e56aaf92f.jpg",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.channel_4_shows.mo3f7rpz"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/FHLzKZJp/Channel-4.png"
+      },
+      {
+        "id": "folder-30e4d4ee",
+        "title": "5",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.channel_4_shows.mo3f5vt2"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=1weIEpwOt_g4ZIGauNnaXUtExljnMjCxs",
+        "titleLogoUrl": "https://i.postimg.cc/VNtGtqD4/Channel-5-2025-svg.png",
+        "coverImageUrl": "https://i.postimg.cc/ZRHY1x9h/5logo.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.channel_4_shows.mo3f5vt2"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/cLnCJm8M/Channel5.png"
+      },
+      {
+        "id": "folder-1404a270",
+        "title": "U",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.uk_tv.mo8ai6c3"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.best_of_the_bbc.mo6vmso3"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "heroVideoUrl": "https://drive.google.com/uc?export=download&id=11yixC0AXh76VR8du-VbiStz4U__GAMcx",
+        "titleLogoUrl": "https://i.postimg.cc/g0hShVNK/UKTV-2024-svg.png",
+        "coverImageUrl": "https://i.postimg.cc/nr9yZw2w/UPlayer.png",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.uk_tv.mo8ai6c3"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.best_of_the_bbc.mo6vmso3"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/Cxq5KNf9/UKTV.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584073,
+      "installMode": "replace",
+      "installedAt": 1791544584073,
+      "packCollectionId": "collection-ff23708b-community",
+      "originalCollectionId": "collection-ff23708b-community"
+    },
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "collection-a70744af-community",
+    "title": "‎Genres",
+    "folders": [
+      {
+        "id": "folder-5eed6a5d",
+        "title": "Action",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Action & Adventure",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4973644"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-action-movies.png?name=Action",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Action & Adventure",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Action",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4973644"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/XYK3qsv2/Action.png"
+      },
+      {
+        "id": "folder-39445f19",
+        "title": "Animation",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21779826"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.24484523"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847039"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Ahyperrreal--100-greatest-animations.png?name=Animation",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Animation",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21779826"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24484523"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847039"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/5251ystn/Animation.png"
+      },
+      {
+        "id": "2ef072a4-9e05-4c38-bc2d-b3aa42aa7806",
+        "title": "Anime",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.5707382"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23438792"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.studio_ghibli.mpcpum1k"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.mappa.mpcq8hnf"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/show/trakt-pub%3Arfsbraz--100-animes-to-watch-before-you-die.png?name=Anime",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.5707382"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23438792"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.studio_ghibli.mpcpum1k"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.mappa.mpcq8hnf"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/cL7ZCFJ9/Anime.png"
+      },
+      {
+        "id": "folder-0cb8dadf",
+        "title": "Comedy",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.9659389"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.5040627"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Achazlarson--time-out-100-best-comedy-movies.png?name=Comedy",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Comedy",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.9659389"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.5040627"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/130PXvzM/Comedy.png"
+      },
+      {
+        "id": "a8a81ab8-7092-4000-99ba-55883dbd274a",
+        "title": "Documentary",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.latest_documentary_shows.mpcqbasr"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.801580"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.10235726"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.33762909"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aistoit--rotten-tomatoes-100-best-documentaries-ranked-by-tomatometer.png?name=Documentary%20%20%20%20%20%20%20%20%20%20",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.latest_documentary_shows.mpcqbasr"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.801580"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.10235726"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.33762909"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/mg3RkmDR/Documentary.png"
+      },
+      {
+        "id": "folder-66b89399",
+        "title": "Drama",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.uk_drama.mo2wdbu8"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.1076151"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21715794"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22957181"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-drama-movies.png?name=Drama",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Drama",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Drama",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.uk_drama.mo2wdbu8"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.1076151"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21715794"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22957181"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/jS6K2M5d/Drama.png"
+      },
+      {
+        "id": "folder-46536043",
+        "title": "Family",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.2415"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.20580022"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Agiladg--rotten-tomatoes-top-100-kids-family-movies.png?name=Family",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Family",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.2415"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20580022"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/xd0QzLJr/Family.png"
+      },
+      {
+        "id": "folder-59257d91",
+        "title": "Fantasy",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tvdb.discover.series.fantasy_shows.mo9s284k"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847198"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-fantasy-movies.png?name=Fantasy",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tvdb.discover.series.fantasy_shows.mo9s284k"
+          },
+          {
+            "type": "movie",
+            "genre": "Fantasy",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847198"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/CKF0qbBp/Fantasy.png"
+      },
+      {
+        "id": "a66f5a51-46ff-4b31-8e9b-5eee99f7cedb",
+        "title": "Food",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tvdb.discover.series.food.mo7esx5s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/show/trakt-pub%3Amoses456--food.png?name=Food",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tvdb.discover.series.food.mo7esx5s"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/rp8Tr50y/Food.png"
+      },
+      {
+        "id": "918334b7-58f6-4445-a2e0-a02a670b4c70",
+        "title": "Horror",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21193458"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4203408"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aphilrivers--dreadit-s-top-100-horror-films-2018-edition-r-horror.png?name=Horror",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Horror",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21193458"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4203408"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/Dz2hX1Jy/Horror.png"
+      },
+      {
+        "id": "f34571d4-6250-4144-9918-444b86a46cfa",
+        "title": "Martial Arts",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21840363"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6674425"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4467615"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.11632332"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Amajeed_pk--100-classic-martial-arts-films.png?name=Martial%20Arts",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21840363"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6674425"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4467615"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.11632332"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/fbws9YtR/Martial-Arts.png"
+      },
+      {
+        "id": "a7fc5577-7054-4b38-aeda-2fb0cac1ffea",
+        "title": "Musicals",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.2619099"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4974101"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-musicals.png?name=Musicals",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.2619099"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4974101"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/mrb4H7zD/Musicals.png"
+      },
+      {
+        "id": "folder-ddf9539a",
+        "title": "Mystery",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.19594387"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.5221223"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-mystery-movies.png?name=Mystery",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "Mystery",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "Mystery",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.19594387"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.5221223"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/9fW27yRq/Mystery.png"
+      },
+      {
+        "id": "folder-efcb3605",
+        "title": "Nature",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6652017"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.23440324"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.26957348"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.84487"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/media/trakt-pub%3Amonkeeman--nature-science-documentaries.png?name=Nature",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6652017"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.23440324"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.26957348"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.84487"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/xd0QzLJH/Nature.png"
+      },
+      {
+        "id": "fa18c34d-4b86-4d83-83b0-0bcaa419094f",
+        "title": "Reality TV",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.latest.mpcugvcy"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.top_rated.mpcuiqyl"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/show/trakt-pub%3Axpamix--reality-tv.png?name=Reality%20TV",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.latest.mpcugvcy"
+          },
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.top_rated.mpcuiqyl"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/Dz2hX1Jq/Reality.png"
+      },
+      {
+        "id": "folder-a88aa6f6",
+        "title": "Romance",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tvdb.discover.series.romantic_shows.mo7eaudn"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21033097"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.20701912"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Acristinx--rotten-tomatoe-s-top-100-romance-movies.png?name=Romance",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tvdb.discover.series.romantic_shows.mo7eaudn"
+          },
+          {
+            "type": "movie",
+            "genre": "Romance",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21033097"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.20701912"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/43JG9p7v/Romance.png"
+      },
+      {
+        "id": "folder-d012fae7",
+        "title": "Sci-Fi",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tvdb.discover.series.sci_fi_shows.mo9s3i10"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.797798"
+          },
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Acodermike--100-greatest-sci-fi-movies.png?name=Sci-Fi",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tvdb.discover.series.sci_fi_shows.mo9s3i10"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.797798"
+          },
+          {
+            "type": "movie",
+            "genre": "Science Fiction",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/XvQbcXdZ/Sci-Fi.png"
+      },
+      {
+        "id": "folder-3a8c2787",
+        "title": "Space",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.3813071"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/media/trakt-pub%3Atcjelly--late-night-space.png?name=Space",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.3813071"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/N0pc7Lmr/Space.png"
+      },
+      {
+        "id": "folder-de2c299b",
+        "title": "Thriller",
+        "sources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tvdb.discover.series.thriller_shows.mo7ecu45"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22803128"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22096238"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Amajeed_pk--bfi-100-best-thrillers.png?name=Thriller",
+        "catalogSources": [
+          {
+            "type": "series",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tvdb.discover.series.thriller_shows.mo7ecu45"
+          },
+          {
+            "type": "movie",
+            "genre": "Thriller",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22803128"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22096238"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/BvM0ctHH/Thriller.png"
+      },
+      {
+        "id": "4982862c-fefc-40f4-a690-43cc8c449568",
+        "title": "War",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.4433767"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Alencocoa--100-best-war-movies.png?name=War",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "War",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.4433767"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/yNvHXWc0/War.png"
+      },
+      {
+        "id": "065932d6-8d8b-4614-a652-5e4e966cc7cc",
+        "title": "Western",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.22847467"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.21899611"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Amedous--100-best-western-films-of-all-time-according-to-critics.png?name=Western",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "Western",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.movies.mo7bd2ar"
+          },
+          {
+            "type": "series",
+            "genre": "Western",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.series.series.mo7biroh"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.22847467"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.21899611"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/GpqCJ9GQ/Western.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584075,
+      "installMode": "replace",
+      "installedAt": 1791544584075,
+      "packCollectionId": "collection-a70744af-community",
+      "originalCollectionId": "collection-a70744af-community"
+    },
+    "showAllTab": false,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "5cb30034-9cf0-47a5-b38c-1db1f2ed7e94-community",
+    "title": "‎Decades",
+    "folders": [
+      {
+        "id": "c73776da-5480-43f3-a279-6ac96363446f",
+        "title": "1980s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91301"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades.1980s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aanim8onme--imdb-top-500-us-box-office-of-the-1980s.png?name=1980s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91301"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades.1980s"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/xT63pvjR/80s.png"
+      },
+      {
+        "id": "4b914923-54f1-4d57-80c2-29c084e9fdff",
+        "title": "1990s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91300"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades.1990s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aanim8onme--imdb-top-1000-us-box-office-of-the-1990s.png?name=1990s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91300"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades.1990s"
+          }
+        ],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://i.postimg.cc/cL6MpvrS/90s.png"
+      },
+      {
+        "id": "697f85be-96b6-4c19-ba73-c5653e3b39ff",
+        "title": "2000s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91302"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades.2000s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aanim8onme--imdb-top-1500-us-box-office-of-the-2000s.png?name=2000s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91302"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades.2000s"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/xT63pvjP/00s.png"
+      },
+      {
+        "id": "55f81ff6-832d-483e-b5eb-6a52fd4ed08f",
+        "title": "2010s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91303"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades.2010s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aanim8onme--imdb-top-1750-us-box-office-of-the-2010s.png?name=2010s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91303"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades.2010s"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/xT63pvjg/10s.png"
+      },
+      {
+        "id": "54f85c47-4623-48d7-bc7c-a9305a4a5e37",
+        "title": "2020s",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "mdblist.91304"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "tmdb.discover.movie.decades.2020s"
+          }
+        ],
+        "hideTitle": true,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://btttr.cc/jcsxDkBAEEbhq8hfm0RENaXCJUQxGCIssjuqzd5dttJqXvPlRUxiclxrAPcwL7vR_Ywsk_ptVk80ajBatsMFqqu6ymkwlHBqAo7_H444xSkYrQYrusxcfF7CwHBIKb0/cover/movie/trakt-pub%3Aacerider--best-films-2020-2024.png?name=2020s",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "mdblist.91304"
+          },
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "tmdb.discover.movie.decades.2020s"
+          }
+        ],
+        "focusGifEnabled": true,
+        "heroBackdropUrl": "https://i.postimg.cc/65Mfbr6P/20s.png"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584075,
+      "installMode": "replace",
+      "installedAt": 1791544584075,
+      "packCollectionId": "5cb30034-9cf0-47a5-b38c-1db1f2ed7e94-community",
+      "originalCollectionId": "5cb30034-9cf0-47a5-b38c-1db1f2ed7e94-community"
+    },
+    "showAllTab": true,
+    "focusGlowEnabled": true
+  },
+  {
+    "id": "00cfe083-3478-4030-b053-6cbbe1eb5c64-community",
+    "title": "‎Directors",
+    "folders": [
+      {
+        "id": "d20d0613-0230-4460-b583-d524502cace5",
+        "title": "Wes Anderson",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6252074"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/P55n5nHZ/Wes-Anderson.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6252074"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "4efbbe36-09bc-46e7-8703-81a031b2d10b",
+        "title": "Danny Boyle",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241345"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/MKD8wKhs/Danny-Boyle.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241345"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "55723bb4-2335-4dc4-a510-8934bb75906c",
+        "title": "Tim Burton",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241270"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/RZZxZxmW/Tim-Burton.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241270"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "deec1432-c0e6-4201-ae4c-21d7ec9f860a",
+        "title": "James Cameron",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6252088"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/hPrqnPHN/James-Cameron.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6252088"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "3df117e4-e42b-4898-9226-0e4ebaa075f7",
+        "title": "Coen Brothers",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241522"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/02fqv2LZ/Coen-Brothers.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241522"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "fe1d5a0a-5075-4919-83c4-781a936085ec",
+        "title": "Ron Howard",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241276"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/TY9XxYz1/Ron-Howard.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241276"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "cade12bf-d7fc-4a21-9262-3b96d9f37fe0",
+        "title": "Stanley Kubrick",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241405"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/JzzCzC8z/Stanley-Kubrick.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241405"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "a2ac324f-6ec3-43d6-ba77-904b0ee6bb0f",
+        "title": "Christopher Nolan",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6242091"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/m2RGKF6X/Christopher-Nolan.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6242091"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "0bf1438f-3e10-475c-8f3b-4495dda6ad3f",
+        "title": "Martin Scorsese",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.24183553"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/RCDwJskZ/Martin-Scorsese.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.24183553"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "c40e3a32-0bef-411e-957a-5ca317cafd03",
+        "title": "Ridley Scott",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241250"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/X780W7RJ/Ridley-Scott.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241250"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "d7b36d03-0f34-40bf-b9d1-32a226362987",
+        "title": "M. Night Shyamalan",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241387"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/X780W7R3/M-Night-Shyamalan.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241387"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "4d324a93-a762-40c2-8388-a57b38b70768",
+        "title": "Steven Spielberg",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241187"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/Z55z5zmq/Steven-Spielberg.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241187"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "8b122e7c-5119-42d1-9e4e-a880c364ddd4",
+        "title": "Oliver Stone",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241367"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/L6TMS6cH/Oliver-Stone.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241367"
+          }
+        ],
+        "focusGifEnabled": false
+      },
+      {
+        "id": "76d6c08c-cf0b-456a-ae3f-ef94d6833cb7",
+        "title": "Quentin Tarantino",
+        "sources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "provider": "addon",
+            "catalogId": "trakt.list.6241445"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverImageUrl": "https://i.postimg.cc/CLNV0L3L/Quentin-Tarantino.png",
+        "catalogSources": [
+          {
+            "type": "movie",
+            "genre": "None",
+            "addonId": "aio-metadata",
+            "catalogId": "trakt.list.6241445"
+          }
+        ],
+        "focusGifEnabled": false
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "FOLLOW_LAYOUT",
+    "community": {
+      "id": "b-e-s-t-better-enhanced-simple-tv",
+      "version": 8,
+      "replacedAt": 1791544584075,
+      "installMode": "replace",
+      "installedAt": 1791544584075,
+      "packCollectionId": "00cfe083-3478-4030-b053-6cbbe1eb5c64-community",
+      "originalCollectionId": "00cfe083-3478-4030-b053-6cbbe1eb5c64-community"
+    },
+    "showAllTab": false,
+    "backdropImageUrl": "https://i.postimg.cc/2S8X7RGv/Directors.png",
+    "focusGlowEnabled": true
+  }
+]
